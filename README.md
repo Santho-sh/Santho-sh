@@ -5,7 +5,7 @@
 
 - 🎓 &nbsp; Studying at NGM. College.
 
-- 🌱 &nbsp; I’m currently learning **C Programming**
+- 🌱 &nbsp; I’m currently learning **Python**
   
 - 📫 How to reach me ...
 
