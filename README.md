@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santho-sh&style=flat-square" /> </p>
 
-- 🎓 &nbsp; Studying at NGM. College.
+- 🎓 &nbsp; Self thought programmer
 
-- 🌱 &nbsp; I’m currently learning **Python**
+- 🌱 &nbsp; I’m currently learning CS50 
   
 - 📫 How to reach me ...
 
